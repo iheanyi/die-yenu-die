@@ -1,0 +1,14 @@
+#cnv {
+	float: left;
+}
+
+.info {
+	float: left;
+	width: 40%;
+	padding-left: 10px;
+}
+
+.backstory {
+	padding-top: 10px;
+}
+
